@@ -170,8 +170,7 @@ export default {
           break;
         default:
           this.$emit("keyClick", key);
-          bre;
-          ak;
+          break;
       }
     },
     handleKeyStyle() {
